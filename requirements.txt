@@ -16,3 +16,4 @@ einops
 plotly
 matplotlib
 scipy
+pytest==8.0.2
