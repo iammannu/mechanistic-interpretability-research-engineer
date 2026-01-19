@@ -20,3 +20,4 @@ plotly
 matplotlib
 scipy
 pytest==8.0.2
+typeguard==4.1.5
