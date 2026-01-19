@@ -5,7 +5,10 @@ transformers>=4.30.0
 
 # Visualization
 matplotlib>=3.7.0
-numpy>=1.24.0
+
+numpy==1.26.4
+pyarrow==12.0.1
+datasets==2.14.7
 
 # Streamlit UI
 streamlit>=1.28.0
@@ -17,9 +20,8 @@ ipykernel>=6.0.0
 # Optional but helpful
 tqdm>=4.65.0
 einops>=0.6.0
-# core compatibility pins
-pyarrow==14.0.2
-datasets==2.19.2
+ns
+
 
 # if you use transformer_lens
 transformer-lens==1.12.0
