@@ -1,0 +1,19 @@
+# Core dependencies for induction head analysis
+torch>=2.0.0
+transformer-lens>=1.10.0
+transformers>=4.30.0
+
+# Visualization
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Streamlit UI
+streamlit>=1.28.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional but helpful
+tqdm>=4.65.0
+einops>=0.6.0
